@@ -1,0 +1,7 @@
+argparse
+dill
+fire
+psutil
+slidingwindow
+tqdm
+git+https://github.com/ppwwyyxx/tensorpack.git
