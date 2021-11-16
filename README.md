@@ -2,7 +2,7 @@
 
 This module detects Real time human activities such as throwing, jumping, jumping_jacks, boxing, sitting. 
 
-**FPS 10-12 on Nvidia AGX Xavier**
+**FPS 20-25 on Nvidia AGX Xavier**
 
 ## Install
 
