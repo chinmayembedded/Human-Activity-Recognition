@@ -38,3 +38,13 @@ $ python3 run_webcam.py webcam0 abc abc
 $ python3 run_webcam.py video-path abc abc
 ```
 
+### Citing the paper
+Please always remember to respect the authors and cite their work properly. 🫡
+```
+@article{avrahami2023chosen,
+  title={Human activity recognition with openpose and Long Short-Term Memory on real time images},
+  author={Chinmay Sawant},
+  journal={arXiv preprint arXiv:2311.10093},
+  year={2020}
+}
+```
